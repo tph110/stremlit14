@@ -7,3 +7,4 @@ requests>=2.32.3
 scipy>=1.15.2
 plotly>=5.25.0
 opencv-python-headless==4.11.0.86
+huggingface-hub
